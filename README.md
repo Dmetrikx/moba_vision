@@ -34,7 +34,7 @@ This project captures frames from a specific window, processes them using a cust
 3. **Install the required packages:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt.txt
     ```
 
 ## Usage
