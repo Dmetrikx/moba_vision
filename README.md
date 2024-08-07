@@ -1,4 +1,4 @@
-# Real-time Object Detection on League of Legends VODs with Custom YOLO Model
+# Real-time Object Detection on League of Legends VODs with Custom YOLO Model (README NOT DONE YET)
 
 This project captures frames from a specific window, processes them using a custom YOLO model for object detection, and displays the annotated frames in real-time.
 
